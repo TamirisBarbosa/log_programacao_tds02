@@ -1,8 +1,9 @@
 programa {
   funcao inicio() {
+inteiro num
     escreva ("Numeros ao Quadrado (15 a 200) \n")
 
-    inteiro num
+   
 
     num = 15
 
